@@ -1,0 +1,13 @@
+b2==1.3.8
+certifi==2018.11.29
+chardet==3.0.4
+funcsigs==1.0.2
+idna==2.8
+lmdb==0.94
+logfury==0.1.2
+pkg-resources==0.0.0
+python-dateutil==2.8.0
+requests==2.21.0
+six==1.12.0
+tqdm==4.31.1
+urllib3==1.24.1
